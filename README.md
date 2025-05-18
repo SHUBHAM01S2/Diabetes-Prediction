@@ -1,5 +1,3 @@
-
-
 ```markdown
 # 🩺 Diabetes Prediction Web App
 
@@ -100,7 +98,7 @@ This project is open-source under the [MIT License](LICENSE).
 
 ---
 
-**Created by [Shubham Sharma](www.linkedin.com/in/shubham-sharma611)**
+**Created by [Shubham Sharma](https://www.linkedin.com/in/shubham-sharma611)**
 Let’s connect and build together! 🤝
 
 ```
