@@ -104,8 +104,3 @@ This project is open-source under the [MIT License](LICENSE).
 Let’s connect and build together! 🤝
 
 ```
-
----
-
-Let me know if you want to auto-generate a `requirements.txt` file too.
-```
